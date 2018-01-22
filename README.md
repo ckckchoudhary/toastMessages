@@ -22,9 +22,7 @@
   
  > ##### On Mobile Phones
  
-  ![alt text](https://github.com/ckckchoudhary/toastMessages/blob/master/screenShots/Screen%20Shot%202018-01-22%20at%203.25.30%20PM.png)
+  ![https://github.com/ckckchoudhary/toastMessages/blob/master/screenShots/Screen%20Shot%202018-01-22%20at%203.25.30%20PM.png](https://github.com/ckckchoudhary/toastMessages/blob/master/screenShots/Screen%20Shot%202018-01-22%20at%203.25.30%20PM.png)
 
-> ##### On Desktop
 
-![alt text](https://github.com/ckckchoudhary/toastMessages/blob/master/screenShots/Screen%20Shot%202018-01-22%20at%203.31.08%20PM.png)
 
