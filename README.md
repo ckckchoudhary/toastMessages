@@ -18,5 +18,13 @@
   You can override the existing CSS by passing outerStyles and innerstyles object as shown above.
   
   ### Check The Screen Shots in the repo to see how the Output looks like
+  
+  
+ > ##### On Mobile Phones
+ 
+  ![alt text](https://github.com/ckckchoudhary/toastMessages/blob/master/screenShots/Screen%20Shot%202018-01-22%20at%203.25.30%20PM.png)
 
+> ##### On Desktop
+
+![alt text](https://github.com/ckckchoudhary/toastMessages/blob/master/screenShots/Screen%20Shot%202018-01-22%20at%203.31.08%20PM.png)
 
